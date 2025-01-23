@@ -1,5 +1,8 @@
+
+console.log(adfadf
 Ayoub
 
-class INDEX {
+
+class MYINDEX {
 
 }
