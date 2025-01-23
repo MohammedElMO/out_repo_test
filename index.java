@@ -1,5 +1,5 @@
-nladfnaflggag
+console.log(adfadf)
 
-class INDEX {
+class MYINDEX {
 
 }
