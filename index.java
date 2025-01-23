@@ -1,4 +1,4 @@
-console.log(adfadf)
+console.log(adfadf
 
 class MYINDEX {
 
